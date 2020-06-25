@@ -1,0 +1,1 @@
+imgs文件夹存储在.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\BIgBIgBIg文件夹下
